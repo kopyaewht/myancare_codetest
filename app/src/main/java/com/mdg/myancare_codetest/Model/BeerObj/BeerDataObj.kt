@@ -13,5 +13,4 @@ data class BeerDataObj (
   @SerializedName("description"       ) var description      : String?           = null,
   @SerializedName("image_url"         ) var imageUrl         : String?           = null,
 
-
 )
